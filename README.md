@@ -1,7 +1,14 @@
-#  Gamanote
+<p align="center">
+  <img src="assets/icon.png" width="150" alt="Logo">
+  <br>
+  <b>Gamanote</b>
+</p>
+<h1 align="center">GamaNote</h1>
 
 [![npm](https://img.shields.io/npm/v/my-project?style=flat-square)](#)
 [![Downloads](https://img.shields.io/npm/dm/my-project?style=flat-square)](#)
+
+### Download [Here v1.0.0](https://github.com/YASSER-27/gamanote/releases)
 ## 📝 Description
 > **Gamanote** is  modern desktop IDE and note-taking application built with Electron, React, and Vite. It aims to provide a seamless development experience with integrated tools and a sleek user interface.
 
@@ -11,10 +18,6 @@
 - **State Management**: [Zustand](https://github.com/pmndrs/zustand)
 - **Editor**: [@monaco-editor/react](https://github.com/suren-atoyan/monaco-react)
 - **Terminal**: [xterm.js](https://xtermjs.org/)
-
-<p align="center">
-  <img src="assets/icon.png" width="150" title="Gamanote">
-</p>
 
 ## Screenshots
 | Preview 1 | Preview 2 |
@@ -27,6 +30,8 @@
 
 ---
 ## video 
+
+https://github.com/user-attachments/assets/18ff2e4a-3f3f-4780-a1c5-8aa8c5dc128d
 
 ### ✨ Key Features
 
@@ -51,6 +56,6 @@ npm run dev
    git clone https://github.com/yasser27/gamanote.git
    ```
 
-
+**Done! ✅**
 
 
